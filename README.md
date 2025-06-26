@@ -21,7 +21,7 @@ The website is built using **HTML**, **CSS**, and **JavaScript** with icons prov
 
 ## Screenshot
 
-![Portfolio Screenshot](./public/1)
+![Portfolio Screenshot](./public/1.png)
 
 *(Replace this image with your preferred screenshot or photo)*
 
