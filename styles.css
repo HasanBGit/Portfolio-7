@@ -46,6 +46,7 @@ body {
   top: 0;
   width: 100%;
   background: rgba(3, 7, 18, 0.8);
+  -webkit-backdrop-filter: blur(12px);
   backdrop-filter: blur(12px);
   border-bottom: 1px solid #374151;
   z-index: 1000;
@@ -621,7 +622,6 @@ body {
 img {
   max-width: 100%;
   height: auto;
-  loading: lazy;
 }
 
 .project-image img,
